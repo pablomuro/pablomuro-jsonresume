@@ -1,0 +1,328 @@
+{
+  "basics": {
+    "name": "Pablo Alves Muro Martinez",
+    "label": "Analista Desarrollador | Desarrollador Full-Stack | Desarrollador Back-End | Desarrollador Front-End",
+    "picture": "",
+    "email": "pablo.muro@gmail.com",
+    "phone": "+55 61 98187-7799",
+    "website": "",
+    "summary": "¡Hola! Soy Pablo. Una de las personas más animadas del mundo y a la que le encanta desarrollar códigos que faciliten la vida o automatizan tareas. A veces, dedico más tiempo desarrollando el código del que exigiría la tarea en sí.\n\nDesde la carpeta system32, a mi primer “Hello World!” en C hasta mi primer trabajo. Ese fue mi viaje en el mundo de las tecnologías de la TI. Cuando mi padre compró nuestro primer computador, mi diversión era jugar Solitario e intentar abrir todo en system32 para ver qué pasaba, en ese momento también tuve mi primer contacto con HTML, así que fue un salto a la carrera de Informática en la Universidad de Brasilia (UNB) donde hice mi primer código en C y descubrí que la codificación era mi pasión. En esos años fui pasante en 2 lugares; en el último, por mi desempeño, fui contratado como Analista Desarrollador.\n\nAhora, con el conocimiento que obtuve en las empresas que trabajé, sobre desarrollo empresarial, estándares de diseño, código limpio, refactorización y más, me estoy enfocando en convertirme en un desarrollador de JavaScript Full-stack, el lenguaje que amo. Pero también puedo trabajar con Python, Ruby (Rails).\n\nEl objetivo final es utilizar mi ciudadanía española y con mis pasaportes, ir a vivir a Europa y viajar por el mundo.\n",
+    "location": {
+      "countryCode": "BR",
+      "address": "Taguatinga Norte - Distrito Federal"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pablomuro",
+        "url": "https://www.linkedin.com/in/pablomuro/"
+      },
+      {
+        "network": "Twitter",
+        "username": "pablomurodev",
+        "url": "https://twitter.com/pablomurodev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Websis",
+      "endDate": "2020-10-31",
+      "highlights": [],
+      "position": "Analista Desenvolvedor de Software",
+      "startDate": "2020-08-31",
+      "summary": "Implementação de casos de uso em plataforma de atendimento médico usando stack Symfony e Angular; Scrum com sprints  de entrega semanais",
+      "website": ""
+    },
+    {
+      "company": "BRISA Sociedade para o Desenvolvimento da Tecnologia da Informação",
+      "endDate": "2020-08-31",
+      "highlights": [],
+      "position": "Analista Desarrollador",
+      "startDate": "2019-01-31",
+      "summary": "Levantamento e Implementação de requisitos e funcionalidades em sistemas web, full-stack com front-end - HTML, CSS3, Javascript ou Vue.Js ou React e back-end Java Spring Boot;Pesquisas para desenvolvimento de um projeto em Electron; Auxílio no desenvolvimento de sistema em React Native;",
+      "website": "https://www.linkedin.com/company/brisabr/"
+    },
+    {
+      "company": "BRISA Sociedade para o Desenvolvimento da Tecnologia da Informação",
+      "endDate": "2019-01-31",
+      "highlights": [],
+      "position": "Programador FullStack - Estágiario",
+      "startDate": "2017-02-28",
+      "summary": "Implementação de requisitos e funcionalidades em sistemas web, tanto front-end, utilizando HTML, CSS e Javascript, quanto back-end, utilizando as linguagens e frameworks, Java com Framework Play e IDE Eclipse e C# com o Framework .NET e VisualStudio; Uso da metodologia de desenvolvimento SCRUM;",
+      "website": ""
+    },
+    {
+      "company": "Centro de Tecnologias Educacionais Interativas em Saúde",
+      "endDate": "2014-02-28",
+      "highlights": [],
+      "position": "Estagiário",
+      "startDate": "2012-08-31",
+      "summary": "Suporte a usuários Linux e Windows, assim como todo o aparato computacional. Rede de computadores. Desenvolvedor Joomla e Wordpress",
+      "website": ""
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidade de Brasília",
+      "area": "Computação",
+      "studyType": "Licenciatura",
+      "startDate": "2014-12-31",
+      "endDate": "2022-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "freeCodeCamp",
+      "area": "Ingeniería de Software",
+      "studyType": "Full Stack Web Development Certification",
+      "startDate": "2016-12-31",
+      "endDate": "2021-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS3",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-end Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Back-End Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Express.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AJAX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React Native",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vue.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Javascript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SASS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redux.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Visual Studio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Entity Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RESTful WebServices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Structures",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NoSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laravel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MVC",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "pt",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}

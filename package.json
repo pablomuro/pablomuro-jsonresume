@@ -1,0 +1,19 @@
+{
+  "name": "pablomuro-jsonresume",
+  "version": "1.0.0",
+  "description": "Pablo A. Muro Martinez i18n json resume",
+  "main": "index.js",
+  "repository": "https://github.com/pablomuro/pablomuro-jsonresume.git",
+  "author": "pablomuro <pablo.muro@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "resume init",
+    "dev": "resume serve --resume Pablo_Alves_Muro_Martinez.resume-EN.json --theme=./"
+  },
+  "dependencies": {
+    "resume-cli": "3.0.0",
+    "jsonresume-themeutils": "^1.4.3",
+    "handlebars": "^4.7.7"
+  }
+}
