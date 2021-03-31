@@ -8,12 +8,22 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "build": "tsc && npm run tailwindcss-build",
+    "tailwindcss-build": "tailwindcss-cli build ./src/theme.css -o ./theme/theme.css",
+    "production": "NODE_ENV=production npm run build",
     "start": "resume init",
-    "dev": "resume serve --resume Pablo_Alves_Muro_Martinez.resume-EN.json --theme=./"
+    "dev": "resume serve --resume Pablo_Alves_Muro_Martinez.resume-EN.json --theme=./dist/",
+    "dev-ts": "npm run build;resume serve --resume Pablo_Alves_Muro_Martinez.resume-EN.json --theme=./dist/"
   },
   "dependencies": {
     "resume-cli": "3.0.0",
     "jsonresume-themeutils": "^1.4.3",
     "handlebars": "^4.7.7"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "typescript": "^4.2.3",
+    "tailwindcss-cli": "",
+    "node-ts": "^5.1.1"
   }
 }

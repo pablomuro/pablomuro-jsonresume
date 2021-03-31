@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+
+.btn {
+  @apply px-4 py-2 bg-blue-600 text-white rounded;
+}
+
+.up-left-triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 50px 50px 0 0;
+  border-color: #27a9e1 transparent transparent transparent;
+  -webkit-transform: rotate(360deg);
+  border-style: inset;
+}
+
+.down-bottom-triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-style: solid;
+  border-width: 50px 50px 0 0;
+  border-color: transparent transparent #27a9e1 transparent;
+  -webkit-transform: rotate(360deg);
+  border-style: inset;
+}
+
+body {
+  background: #fff;
+  font: 15px Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+  margin: 50px 0;
+  margin-bottom: 100px;
+}
+em {
+  color: #999;
+}
+p {
+  line-height: 1.4;
+}
+ul {
+  margin-bottom: 0;
+}
+section {
+  margin-bottom: 2em;
+}
+blockquote {
+  margin: 0;
+  margin-bottom: 1em;
+}
+.item {
+  margin-bottom: 1em;
+}
+#resume {
+  margin: 0 auto;
+  max-width: 480px;
+  padding: 0 20px;
+}
+#basics {
+  margin-bottom: -10px;
+}
+#basics h3 {
+  margin-top: 1.5em;
+}
+#basics .contact strong,
+#location strong {
+  clear: both;
+  float: left;
+  line-height: 1.3;
+  width: 120px;
+}
+#profiles,
+#skills {
+  overflow: hidden;
+}
+#profiles .item,
+#skills .item {
+  float: left;
+  width: 50%;
+}
+
+@tailwind utilities;
